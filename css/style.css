@@ -1,9 +1,11 @@
 html, body {
-    background-image: url("background.jpg");
+    background-image: url("../resources/background.jpg");
     background-size: cover;
     text-align: center;
-    text-shadow: 1px 1px black;
     font-family: Arial;
+}
+h1{
+    text-shadow: 1px 1px black;
 }
 #spacer{
     height: 100px;
